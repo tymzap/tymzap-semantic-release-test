@@ -6,5 +6,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tymzap/tymzap-semantic-release-test.git"
+  },
+  "dependencies": {
+    "semantic-release": "22.0.12"
   }
 }
