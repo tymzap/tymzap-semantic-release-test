@@ -1,6 +1,10 @@
 {
   "name": "tymzap-semantic-release-test",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tymzap/tymzap-semantic-release-test.git"
+  }
 }
